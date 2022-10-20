@@ -1,0 +1,11 @@
+﻿  app.c
+  card.c
+D:\career\1 ASU & UEL\Course\EgyFWD\Pro Emb\Project\Payment Application\Payment Application Project\Payment Application Project\card.c(18,2): warning C4013: 'gets' undefined; assuming extern returning int
+  server.c
+  terminal.c
+D:\career\1 ASU & UEL\Course\EgyFWD\Pro Emb\Project\Payment Application\Payment Application Project\Payment Application Project\terminal.c(30,38): warning C4047: '=': 'uint8_t' differs in levels of indirection from 'void *'
+D:\career\1 ASU & UEL\Course\EgyFWD\Pro Emb\Project\Payment Application\Payment Application Project\Payment Application Project\terminal.c(34,43): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+D:\career\1 ASU & UEL\Course\EgyFWD\Pro Emb\Project\Payment Application\Payment Application Project\Payment Application Project\terminal.c(94,6): warning C4267: '=': conversion from 'size_t' to 'uint8_t', possible loss of data
+D:\career\1 ASU & UEL\Course\EgyFWD\Pro Emb\Project\Payment Application\Payment Application Project\Payment Application Project\terminal.c(95,56): warning C4267: 'initializing': conversion from 'size_t' to 'int8_t', possible loss of data
+  Generating Code...
+  Payment Application Project.vcxproj -> D:\career\1 ASU & UEL\Course\EgyFWD\Pro Emb\Project\Payment Application\Payment Application Project\x64\Debug\Payment Application Project.exe
